@@ -1,0 +1,13 @@
+{
+    "name": "websmaniac/calculate",
+    "description": "Simple demo pack for calculate or perform arithmetic operations",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Webs Maniac",
+            "email": "info@websmaniac.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
